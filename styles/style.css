@@ -131,6 +131,11 @@ align-items: center;
   border: 1px solid #FFFFFF;
 }
 
+.lots {
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
 .lots-title {
   margin-left: 40px;
   margin-bottom: 27px;
@@ -221,7 +226,7 @@ color: #FFFFFF;
 
 .about {
   width: 1052px;
-  margin: 180px 24px 120px 24px;
+  margin: 120px 24px 120px 24px;
   display: grid;
   grid-template-columns: auto auto;
   column-gap: 72px;
